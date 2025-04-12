@@ -62,7 +62,7 @@ The dataset contains weather data with the following columns:
 # Project Structure
 - Data cleaning -> Scaling Features -> Model Training -> Predicting through date-time -> API integration and scheduler -> Comparison with real data -> Analysis on Supaboard dashboard.
 # Demo/Presentation
--
+- https://drive.google.com/drive/folders/12bfQ8viHf5UGEgq3sJk81NsNwBIetEqk?usp=sharing
 
 ## Limitations and Future Work
 - *Scheduling:* The automated scheduling component mentioned in the project context (using cron, Airflow, etc.) is not implemented in this script. This would be                         required for regular, automated data updates and model retraining.
