@@ -9,6 +9,7 @@ Weather forecasting is essential for various industries, but predicting weather 
 # Important Info 
 
 1.*"PLEASE UPLOAD THE CSV FILE IN THE COLAB BECAUSE AS THE SESSION ENDS THEY GET RESET"*
+
 2.*"RUN THE CODE ACCORDINGLY"*
 
 # 📂 Content Breakdown
