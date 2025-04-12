@@ -12,6 +12,10 @@ Weather forecasting is essential for various industries, but predicting weather 
 
 2.*"RUN THE CODE ACCORDINGLY"*
 
+3.*"AS RECENT YEARS DATASET CONTAINING ALL THOSE ATTRIBUTES WAS NOT AVAILABLE THATS WHY WE USE OLDER DATASET WHICH AFFECTS THE MSE"*
+
+4.*"ABOVE PROBLEM CAN BE SOLVED BY USING CONTINOUS API INTEGRATION OF WEATHER DATA"*
+
 # 📂 Content Breakdown
 The project consists of three main components:
 1. **ML Model for Weather Forecasting**
