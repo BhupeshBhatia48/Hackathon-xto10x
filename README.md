@@ -60,7 +60,7 @@ The dataset contains weather data with the following columns:
 - This model appends the new data into the older data for better learning of the model and making it robust.
 
 # Project Structure
-- Data cleaning -> Scaling Features -> Model Training -> Predicting through date-time -> API integration and scheduler -> Comparison with real data ->Model deploying
+- Data cleaning -> Scaling Features -> Model Training -> Predicting through date-time -> API integration and scheduler -> Comparison with real data -> Analysis on Supaboard dashboard.
 # Demo/Presentation
 -
 
